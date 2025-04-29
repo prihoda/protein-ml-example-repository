@@ -1,0 +1,8 @@
+pandas
+matplotlib
+jupyterlab
+seaborn
+biopandas
+biopython
+molviewspec
+scikit-learn
